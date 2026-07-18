@@ -69,3 +69,8 @@ env/
 **/*.pyc
 **/*.pyo
 **/*.pyd
+
+# local harness (leetgpu_local.py)
+.venv-cuda/
+.venv-cuda-*/
+workspace/
