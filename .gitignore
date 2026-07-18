@@ -74,3 +74,6 @@ env/
 .venv-cuda/
 .venv-cuda-*/
 workspace/
+
+# Claude Code internal write-tracking
+.claude/.cc-writes/
